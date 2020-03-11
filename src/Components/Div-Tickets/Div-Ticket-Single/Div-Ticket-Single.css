@@ -1,0 +1,32 @@
+.Div-Ticket-Single {
+    height: 10rem;
+    width: 12rem;
+    background: white;
+    padding: 0em 3.8em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: black 2px dashed;
+}
+
+h1 {
+    font-size: 3em;
+    color: lightblue;
+    text-transform: uppercase;
+    margin: 0.1em;
+    padding: 0;
+}
+
+article {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    max-width: 10em;
+    color: rgb(57, 55, 55);
+}
+
+p {
+    font-size: 0.5em;
+    color: lightblue;
+    max-width: 15em;
+}

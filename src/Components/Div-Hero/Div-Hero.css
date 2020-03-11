@@ -1,0 +1,10 @@
+.Div-Hero {
+    background-color: rgb(106, 106, 171);
+    background-image: url("./Background-Image/2016-3-resized.JPG");
+    background-blend-mode: multiply;
+    height: 40rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

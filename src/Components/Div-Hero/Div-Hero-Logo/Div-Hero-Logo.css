@@ -1,0 +1,16 @@
+.Div-Hero-Logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Div-Hero-Logo-Circle {
+    border: white 2px solid;
+    border-radius: 999px;
+    width: 3em;
+    height: 3em;
+}
+
+.Div-Hero-Logo-Text {
+    text-transform: uppercase;
+}

@@ -1,0 +1,14 @@
+.Div-Hero-Contact {
+    display: flex;
+    flex-direction: column;
+    background: rgb(29, 29, 87);
+    padding-bottom: 1em;
+}
+
+.Div-Hero-Contact-Title {
+    color: lightblue;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    margin-top: 1em;
+}
